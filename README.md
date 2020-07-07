@@ -1,4 +1,4 @@
-# Huawei-Code-Craft-2020
+# Huawei-CodeCraft2020
 HUAWEI软件精英挑战赛-粤港澳赛区-佛系炮灰队-初赛复赛Java代码开源
 比赛信息：https://competition.huaweicloud.com/codecraft2020  
 本人所在的团队为粤港澳赛区佛系炮灰队，初赛区域第26，复赛A榜第20，B榜没分，止步复赛。非常感谢我的两个队友，分别来自桂电和海南大学。
